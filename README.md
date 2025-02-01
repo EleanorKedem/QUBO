@@ -4,13 +4,13 @@ This repository contains the implementation of algorithms and techniques for sol
 
 ## Project Structure
 
-- main.py: The main entry point for the project, orchestrating the execution of various components.
+- **main.py**: The main entry point for the project, orchestrating the execution of various components.
 
-- ClassicSA.py: Implements a classical Simulated Annealing algorithm for solving QUBO problems. Simulated Annealing is a probabilistic technique for approximating the global optimum of a given function.
+- **ClassicSA.py**: Implements a classical Simulated Annealing algorithm for solving QUBO problems. Simulated Annealing is a probabilistic technique for approximating the global optimum of a given function.
 
-- Lqa.py: Implementations of a Local Quantum Annealing approach. Adjustments and modification of code by https://doi.org/10.1103/PhysRevApplied.18.03401
+- **Lqa.py**: Implementations of a Local Quantum Annealing approach. Adjustments and modification of code by https://doi.org/10.1103/PhysRevApplied.18.03401
 
-- QML.py: Implements Quantum Machine Learning techniques.
+- **QML.py**: Implements Quantum Machine Learning techniques.
 
 ## Prerequisites
 
